@@ -14,6 +14,6 @@ int main()
 	PrintBin(number);
 	std::cout << std::endl;
 
-    system("pause");
-    return 0;
+	system("pause");
+	return 0;
 }
