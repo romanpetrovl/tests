@@ -10,8 +10,8 @@ void PrintBin(int num)
 
 int main()
 {
-	int number = 5;
-	PrintBin(5);
+	int number = 158;
+	PrintBin(number);
 	std::cout << std::endl;
 
     system("pause");
